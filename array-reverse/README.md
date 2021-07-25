@@ -1,4 +1,4 @@
-# Reverse an Array
+# Reverse an Array Day 1
 
 a function called reverseArray which takes an array as an argument. return an array with elements in reversed order.
 
